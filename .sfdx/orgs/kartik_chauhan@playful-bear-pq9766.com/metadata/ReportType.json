@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/flow_orchestration_log_ootb_crt_two_four_eight.reportType",
+      "fullName": "flow_orchestration_log_ootb_crt_two_four_eight",
+      "id": "070dM00000A0dwXQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    },
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/flow_orchestration_work_item_ootb_crt_two_four_eight.reportType",
+      "fullName": "flow_orchestration_work_item_ootb_crt_two_four_eight",
+      "id": "070dM00000A0dwWQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    },
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/flow_orchestration_stage_run_ootb_crt_two_four_eight.reportType",
+      "fullName": "flow_orchestration_stage_run_ootb_crt_two_four_eight",
+      "id": "070dM00000A0dwUQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    },
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/flow_orchestration_step_run_ootb_crt_two_four_eight.reportType",
+      "fullName": "flow_orchestration_step_run_ootb_crt_two_four_eight",
+      "id": "070dM00000A0dwVQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    },
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/screen_flows_prebuilt_crt.reportType",
+      "fullName": "screen_flows_prebuilt_crt",
+      "id": "070dM00000A0dwYQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    },
+    {
+      "createdById": "005dM00000BR042QAD",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-01-21T16:07:47.000Z",
+      "fileName": "reportTypes/flow_orchestration_run_ootb_crt_two_four_eight.reportType",
+      "fullName": "flow_orchestration_run_ootb_crt_two_four_eight",
+      "id": "070dM00000A0dwTQAR",
+      "lastModifiedById": "005dM00000BR042QAD",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-01-21T16:07:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportType"
+    }
+  ]
+}
